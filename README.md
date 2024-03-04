@@ -4,6 +4,8 @@
 <br>
 
 - 🔭 I’m currently working as a Native Android Freelance Developer
+- 🥷🏼 Kotlin enthusiast, working with: Android, Ktor (backend), Kotlin Multiplatform, Compose Multiplatform
+- 👨🏼‍💻 Checkout my portfolio [Teo Vladusic Portfolio.pdf](https://github.com/teovladusic/teovladusic/files/14478245/Teo.Vladusic.Portfolio.pdf)
 
 <br>
 
